@@ -5,4 +5,5 @@ new_site(theme = "wowchemy/starter-academic")
 check_gitignore()
 check_content()
 serve_site()
-stop_server()
+
+
